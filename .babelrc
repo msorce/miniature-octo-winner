@@ -1,0 +1,6 @@
+{ // handles es6 in common js
+  "presets": [
+    "@babel/preset-env",
+    "@babel/preset-react"
+  ]
+}
